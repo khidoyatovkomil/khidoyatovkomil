@@ -1,9 +1,10 @@
 ## Hi, I'm Komil 👋
 
-Backend developer focused on Python and real-world projects.
+ML & Data Engineer with a background in Python backend development and Telegram bot development.
 
-- Python • Django • Telegram bots
-- Databases & APIs
-- Currently learning ML fundamentals
+* Python • Machine Learning • Data Engineering
+* Data Pipelines • Speech & Audio Processing
+* Backend Development • Django • Telegram Bots
+* Linux • Git • SQL
 
-I value clean code, clarity, and practical results.
+Currently building ML data pipelines and expanding my expertise in Machine Learning, Data Engineering, and AI systems.
